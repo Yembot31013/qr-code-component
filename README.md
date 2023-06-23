@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: ([https://www.frontendmentor.io/solutions/complete-the-task-in-under-a-minute-mdZUL4EZtr](https://www.frontendmentor.io/solutions/complete-the-task-in-under-a-minute-mdZUL4EZtr))
+- Live Site URL: ([https://qr-code-yembot.vercel.app/](https://qr-code-yembot.vercel.app/))
 
 ## My process
 
